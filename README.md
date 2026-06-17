@@ -1,5 +1,5 @@
 # Tanvi Jaiswal
-## Statistics student exploring Python, SQL, and data analysis.
+## Learning Python and SQL to make sense of data, uncertainty, and bad decisions
 
 <img align="right" width="305" alt="asa-notif-2" src="https://github.com/user-attachments/assets/f4a2cffb-574c-4434-befe-0c22f5876d49" />
 <div align="left">
